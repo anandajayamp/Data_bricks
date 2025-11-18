@@ -1,5 +1,4 @@
 # Databricks notebook source
-#New Line added
 import os
 import re
 from databricks import sql
