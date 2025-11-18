@@ -1,6 +1,7 @@
 # Databricks notebook source
 #New Line added
 # added from git
+# added line from git now
 import os
 import re
 from databricks import sql
